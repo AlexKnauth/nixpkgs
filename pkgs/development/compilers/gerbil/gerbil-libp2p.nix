@@ -2,8 +2,8 @@
 
 {
   pname = "gerbil-libp2p";
-  version = "unstable-2021-12-01";
-  git-version = "f0f86c3";
+  version = "unstable-2022-02-03";
+  git-version = "15b3246";
   softwareName = "Gerbil-libp2p";
   gerbil-package = "vyzo";
 
@@ -13,8 +13,8 @@
     fun = fetchFromGitHub;
     owner = "vyzo";
     repo = "gerbil-libp2p";
-    rev = "f0f86c37256b540eb51f21e518979fc786f1fd5b";
-    sha256 = "1qqak3imsgbc2hbi7ibldfxpdvl0i6k37r1726lxr35kmkqj452q";
+    rev = "15b32462e683d89ffce0ff15ad373d293ea0ee5d";
+    sha256 = "059lydp7d6pjgrd4pdnqq2zffzlba62ch102f01rgzf9aps3c8lz";
   };
 
   meta = with lib; {
